@@ -1,0 +1,12 @@
+.vscode/*
+.history/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+*.o
+output
+main.dSYM/
+imguitest.dSYM/
+**/README.md
+DerivedData/
